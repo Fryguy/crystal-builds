@@ -5,8 +5,8 @@ This repo is for building [Crystal](https://crystal-lang.org) from
 Ruby-based version, and then bootstrapping each version with the
 previous version.
 
-# LICENSE
+# License
 
 The gem is available as open source under the terms of the
-[Apache-2.0](https://opensource.org/licenses/Apache-2.0) license. See
-[LICENSE][LICENSE].
+[Apache-2.0](https://opensource.org/licenses/Apache-2.0) license.
+
